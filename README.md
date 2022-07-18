@@ -32,11 +32,12 @@ This builds an inverted index of tables that includes vocabulary and file locati
 This was to conduct analysis of different types of ways to efficiently return a ranked list of documents based on a search query, including findings here:
 
 
-![](images/Image 1.png)
 
 
-![](images/Image 2.png)
+<img src="images.Image 1.png">
 
+<img src="images.Image 2.png">
 
-![](images/Image_3.png)
+<img src="images.Image 3.png">
+
 
