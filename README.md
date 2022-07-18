@@ -34,10 +34,10 @@ This was to conduct analysis of different types of ways to efficiently return a 
 
 
 
-<img src="images.Image 1.png">
+<img src="https://github.com/zakb27/search_engines/blob/main/images/Picture%201.jpg">
 
-<img src="images.Image 2.png">
+=================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-<img src="images.Image 3.png">
+<img src="https://github.com/zakb27/search_engines/blob/main/images/Picture%203.png">
 
 
